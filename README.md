@@ -15,9 +15,15 @@ line, etc.), image descriptors (shape, contour, etc.), image segmentation, motio
 
 ## Programme 
 • Imaging (cameras, radiometry, colors)
+
 • Phototransduction, sensor structure
+
 • Image structure, quantification, noise
+
 • Spatial analysis (manipulation of the histogram, the gradient and the Laplacian)
+
 • Frequency analysis
+
 • Morphology
+
 • The segmentation of images (detection of points, contour)
